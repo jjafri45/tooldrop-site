@@ -1,17 +1,17 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Countdown Timer Online – Free Browser Timer</title>
-<meta name="description" content="Set a countdown timer directly in your browser. Free online countdown timer – no app needed.">
+<title>Countdown Timer Online â€“ Free Browser Timer</title>
+<meta name="description" content="Set a countdown timer directly in your browser. Free online countdown timer â€“ no app needed.">
 <meta name="keywords" content="countdown timer, online timer, countdown clock, browser timer">
 <link rel="canonical" href="https://tooldrop.net/countdown-timer.html">
-<meta property="og:title" content="Countdown Timer Online – Free Browser Timer">
-<meta property="og:description" content="Set a countdown timer directly in your browser. Free online countdown timer – no app needed.">
+<meta property="og:title" content="Countdown Timer Online â€“ Free Browser Timer">
+<meta property="og:description" content="Set a countdown timer directly in your browser. Free online countdown timer â€“ no app needed.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://tooldrop.net/countdown-timer.html">
-<!-- ✅ Replace with real AdSense code when approved:
+<!-- âœ… Replace with real AdSense code when approved:
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXX" crossorigin="anonymous"></script>
 -->
 
@@ -124,18 +124,18 @@ footer a:hover{color:#fff}
 </head>
 <body>
 <nav>
-  <a href="/index.html" class="logo">Tool<span>Drop</span></a>
+  <a href="index.html" class="logo">Tool<span>Drop</span></a>
   <div class="nav-links">
-    <a href="/index.html">All Tools</a>
-    <a href="/privacy.html">Privacy</a>
+    <a href="index.html">All Tools</a>
+    <a href="privacy.html">Privacy</a>
   </div>
 </nav>
-<div class="container"><nav class="breadcrumb"><a href="/index.html">Home</a> › <span>Other Tools</span> › <span>Countdown Timer</span></nav></div>
+<div class="container"><nav class="breadcrumb"><a href="index.html">Home</a> â€º <span>Other Tools</span> â€º <span>Countdown Timer</span></nav></div>
 <div class="page-wrap">
   <div class="tool-main">
-    <div class="ad-slot ad-banner">[ Ad — 728×90 Banner ]</div>
+    <div class="ad-slot ad-banner">[ Ad â€” 728Ã—90 Banner ]</div>
     <div class="tool-header">
-      <div class="icon">⏰</div>
+      <div class="icon">â°</div>
       <h1>Free Online Countdown Timer</h1>
       <p class="intro">Set a custom countdown timer for meetings, cooking, studying, or any task. Works entirely in your browser with no downloads.</p>
     </div>
@@ -157,20 +157,20 @@ let cdT=null,cdL=0;
 function cdRead(){const h=parseInt(document.getElementById('cd-h').value,10)||0,m=parseInt(document.getElementById('cd-m').value,10)||0,s=parseInt(document.getElementById('cd-s').value,10)||0;return h*3600+m*60+s;}
 function cdFmt(total){const h=Math.floor(total/3600),m=Math.floor((total%3600)/60),s=total%60;return String(h).padStart(2,'0')+':'+String(m).padStart(2,'0')+':'+String(s).padStart(2,'0');}
 function cdSync(){document.getElementById('cd-d').textContent=cdFmt(cdRead());}
-function cdSt(){clearInterval(cdT);if(cdL<=0)cdL=cdRead();if(cdL<=0){cdSync();return;}document.getElementById('cd-d').textContent=cdFmt(cdL);cdT=setInterval(()=>{if(cdL<=0){clearInterval(cdT);document.getElementById('cd-d').textContent='⏰ Done!';return;}cdL--;document.getElementById('cd-d').textContent=cdFmt(cdL);if(cdL<=0)clearInterval(cdT);},1000);}
+function cdSt(){clearInterval(cdT);if(cdL<=0)cdL=cdRead();if(cdL<=0){cdSync();return;}document.getElementById('cd-d').textContent=cdFmt(cdL);cdT=setInterval(()=>{if(cdL<=0){clearInterval(cdT);document.getElementById('cd-d').textContent='â° Done!';return;}cdL--;document.getElementById('cd-d').textContent=cdFmt(cdL);if(cdL<=0)clearInterval(cdT);},1000);}
 function cdP(){clearInterval(cdT);}
 function cdR(){clearInterval(cdT);cdL=0;cdSync();}
 cdSync();
 </script>
     </div>
-    <div class="related"><h3>Related Tools</h3><div class="related-grid"><a href="/stopwatch.html" class="related-card">🏁 Stopwatch</a>
-<a href="/coin-flip.html" class="related-card">🪙 Coin Flip</a>
-<a href="/random-number-generator.html" class="related-card">🎲 Random Number Generator</a>
+    <div class="related"><h3>Related Tools</h3><div class="related-grid"><a href="stopwatch.html" class="related-card">ðŸ Stopwatch</a>
+<a href="coin-flip.html" class="related-card">ðŸª™ Coin Flip</a>
+<a href="random-number-generator.html" class="related-card">ðŸŽ² Random Number Generator</a>
 </div></div>
-    <div class="ad-slot ad-banner" style="margin-top:1.5rem">[ Ad — 728×90 Banner ]</div>
+    <div class="ad-slot ad-banner" style="margin-top:1.5rem">[ Ad â€” 728Ã—90 Banner ]</div>
   </div>
   <aside>
-    <div class="ad-slot ad-sidebar">[ Ad — 300×250 ]</div>
+    <div class="ad-slot ad-sidebar">[ Ad â€” 300Ã—250 ]</div>
   </aside>
 </div>
 
@@ -178,7 +178,7 @@ cdSync();
 function cp(id,btn){const t=document.getElementById(id);navigator.clipboard.writeText(t.innerText||t.value||'');btn.textContent='Copied!';btn.style.color='green';setTimeout(()=>{btn.textContent='Copy';btn.style.color='';},1500);}
 </script>
 <footer>
-  <p>© 2025 ToolDrop &nbsp;·&nbsp; <a href="/privacy.html">Privacy Policy</a> &nbsp;·&nbsp; Fast. Free. Forever.</p>
+  <p>Â© 2025 ToolDrop &nbsp;Â·&nbsp; <a href="privacy.html">Privacy Policy</a> &nbsp;Â·&nbsp; Fast. Free. Forever.</p>
 </footer>
 </body>
 </html>

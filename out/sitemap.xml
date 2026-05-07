@@ -1,34 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://tooldrop.net/</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
-  <url><loc>https://tooldrop.net/word-counter.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://tooldrop.net/case-converter.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://tooldrop.net/lorem-ipsum.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://tooldrop.net/text-reverser.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://tooldrop.net/remove-spaces.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://tooldrop.net/duplicate-remover.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://tooldrop.net/reading-time.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://tooldrop.net/age-calculator.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://tooldrop.net/bmi-calculator.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://tooldrop.net/percentage-calculator.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://tooldrop.net/tip-calculator.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://tooldrop.net/emi-calculator.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://tooldrop.net/discount-calculator.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://tooldrop.net/compound-interest.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://tooldrop.net/unit-converter.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://tooldrop.net/color-converter.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://tooldrop.net/binary-converter.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://tooldrop.net/roman-converter.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://tooldrop.net/json-formatter.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://tooldrop.net/base64-encoder.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://tooldrop.net/url-encoder.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://tooldrop.net/password-generator.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://tooldrop.net/hash-generator.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://tooldrop.net/tax-calculator.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://tooldrop.net/profit-calculator.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://tooldrop.net/roi-calculator.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://tooldrop.net/random-number-generator.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://tooldrop.net/coin-flip.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://tooldrop.net/countdown-timer.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://tooldrop.net/stopwatch.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+
+  <url>
+    <loc>https://jjafri45.github.io/tooldrop-site/</loc>
+    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://jjafri45.github.io/tooldrop-site/word-counter.html</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://jjafri45.github.io/tooldrop-site/case-converter.html</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://jjafri45.github.io/tooldrop-site/lorem-ipsum.html</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://jjafri45.github.io/tooldrop-site/text-reverser.html</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://jjafri45.github.io/tooldrop-site/remove-spaces.html</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://jjafri45.github.io/tooldrop-site/duplicate-remover.html</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://jjafri45.github.io/tooldrop-site/reading-time.html</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://jjafri45.github.io/tooldrop-site/age-calculator.html</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://jjafri45.github.io/tooldrop-site/bmi-calculator.html</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://jjafri45.github.io/tooldrop-site/percentage-calculator.html</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://jjafri45.github.io/tooldrop-site/tip-calculator.html</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://jjafri45.github.io/tooldrop-site/emi-calculator.html</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://jjafri45.github.io/tooldrop-site/discount-calculator.html</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://jjafri45.github.io/tooldrop-site/compound-interest.html</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://jjafri45.github.io/tooldrop-site/unit-converter.html</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://jjafri45.github.io/tooldrop-site/color-converter.html</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://jjafri45.github.io/tooldrop-site/json-formatter.html</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://jjafri45.github.io/tooldrop-site/password-generator.html</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://jjafri45.github.io/tooldrop-site/hash-generator.html</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
 </urlset>

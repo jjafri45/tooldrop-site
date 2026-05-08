@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tooldrop.net/sitemap.xml
+Sitemap: https://jjafri45.github.io/tooldrop-site/sitemap.xml
